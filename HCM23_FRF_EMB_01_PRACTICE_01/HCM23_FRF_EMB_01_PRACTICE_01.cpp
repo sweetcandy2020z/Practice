@@ -22,5 +22,4 @@ int main()
     }
     else
         printf("Max: %d\n", arr[2]);
-    return 0;
 }
